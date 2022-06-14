@@ -1,8 +1,8 @@
 # recognize-character
 
-Open the terminal in current directory and You can run the app buy using the following command in terminal:
+Open the terminal in current directory and You can run the app by using the following command in terminal:
 
-python wsgi.py 
+**python wsgi.py **
 
 The app will run on the local machine and you can use it easily.
 
